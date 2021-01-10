@@ -1,0 +1,4 @@
+django
+pyqtkeybind
+Pyqt5
+flask
