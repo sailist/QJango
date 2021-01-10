@@ -2,3 +2,4 @@ django
 pyqtkeybind
 Pyqt5
 flask
+win10toast
